@@ -12,3 +12,12 @@
 - [ ] 3rd thing
 - [ ] 4th thing
   
+```python
+s = "python highlighted syntex"
+print(s)
+```
+
+```js
+var j  = "JavaScript highlights syntex"
+alert(j)
+```
