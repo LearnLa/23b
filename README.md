@@ -21,3 +21,4 @@ print(s)
 var j  = "JavaScript highlights syntex"
 alert(j)
 ```
+![nkust](logo.png "高科大")
