@@ -32,6 +32,18 @@ alert(j)
 ```
 ![nkust](logo.png "高科大")
 
+
+1.First ordered list item  
+2.Another item  
+ ．．* Unordered sub-list.  
+3.Actual numbers don't matter, just that it's a number  
+ ··1. Ordered sub-list  
+ ...2. 2nd  
+4.And another item.  
+ ...* note 1  
+ ...* note 2  
+ *** note 3  
+
 ---
 Colons can be used to align columns.  
  |**Tables**   |**Are**      |**Cool**|  
@@ -43,7 +55,7 @@ Colons can be used to align columns.
 
  |**Markdown**   |**Less**      |**Pretty**|  
 |:------------|:-----------|:-------|  
-|*Still*     |render|**nicely**   |  
+|*Still*     |`render`|**nicely**   |  
 |1     |2     |3     |  
 
 
